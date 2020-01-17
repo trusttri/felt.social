@@ -1,6 +1,6 @@
-# website
+# [felt.social](https://felt.social)
 
-> [felt.social](https://felt.social)
+> tech that feels good 💚 empowering people and supporting democratic organizations
 
 ## license
 
