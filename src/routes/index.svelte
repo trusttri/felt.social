@@ -13,8 +13,6 @@
 
 <section>
 	<Logo />
-</section>
-<section>
 	<Intro />
 </section>
 <section>
