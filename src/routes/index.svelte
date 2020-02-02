@@ -3,6 +3,7 @@
 	import Logo from '@app/Logo.svelte';
 	import SocialLinks from '@app/SocialLinks.svelte';
 	import Intro from '@app/Intro.svelte';
+	import WeAreLive from '@app/WeAreLive.svelte';
 	import Footer from '@app/Footer.svelte';
 </script>
 
@@ -15,6 +16,9 @@
 </section>
 <section>
 	<Intro />
+</section>
+<section>
+	<WeAreLive />
 </section>
 <section>
 	<SocialLinks />
