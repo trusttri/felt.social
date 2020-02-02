@@ -7,7 +7,7 @@
     "email": "team@felt.social",
     "url": "https://felt.social"
   },
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build --legacy",

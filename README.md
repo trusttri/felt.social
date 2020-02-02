@@ -4,4 +4,5 @@
 
 ## license
 
-[MIT](license)
+permissive [ISC license](license) <3
+<sub>[learn more at wikipedia](https://en.wikipedia.org/wiki/ISC_license)</sub>
