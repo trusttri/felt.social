@@ -12,7 +12,7 @@
 
 	:global(a) {
 		color: #495499;
-		font-size: 48px;
+		font-size: 32px;
 		text-decoration: none;
 	}
 	:global(a:hover) {
