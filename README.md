@@ -11,5 +11,5 @@
 
 ## license
 
-permissive [ISC license](license) <3
-<sub>[learn more at wikipedia](https://en.wikipedia.org/wiki/ISC_license)</sub>
+[ISC](license)
+<sub>permissive <3 [learn more at wikipedia](https://en.wikipedia.org/wiki/ISC_license)</sub>
