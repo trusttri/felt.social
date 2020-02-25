@@ -3,7 +3,7 @@
 [<img src="static/logo-heart.png" align="right" width="192" height="178">](https://felt.social)
 
 > customizable communities that feel good 💚
-> empowering people and democratic organizations
+> empowering people and improving our communication
 
 - **work in progress** mockup at [felt.social](https://felt.social)
 - learn [about felt](https://felt.dev/about)
