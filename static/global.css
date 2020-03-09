@@ -57,10 +57,12 @@ a {
 	font-weight: bold;
 	text-decoration: none;
 }
+
 a:hover {
 	color: #549949;
 	text-decoration: underline;
 }
+
 a:active {
 	color: #495499;
 }
@@ -68,6 +70,7 @@ a:active {
 .focusable:hover {
 	outline: 5px dotted #549949;
 }
+
 a:focus,
 button:focus,
 input:focus,
