@@ -18,6 +18,8 @@ Our business is owned by a worker co-op
 and one day we hope to become
 a [platform co-op](https://platform.coop)
 to justly represent all stakeholders.
+We think accountability is pretty cool
+and want a future friendly for all.
 
 - learn [about `felt`](https://felt.dev/about)
 - sign up for our mailing list at our
