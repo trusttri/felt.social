@@ -3,10 +3,12 @@
 [<img src="static/logo-heart.png" align="right" width="192" height="178">](https://felt.social)
 
 > customizable communities that feel good 💚
-> empowering people and improving our communication
+
+[`felt`](https://github.com/feltcoop/felt)
+seeks to empower people, help us organize, and improve our communication.
 
 [felt.social](https://felt.social)
-is the community and business
+is our community and business, and
 [`felt`](https://github.com/feltcoop/felt),
 a set of free and open source tools for building customizable communities.
 Our business is owned by a worker co-op
