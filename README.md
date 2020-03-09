@@ -12,8 +12,8 @@ a set of free and open source tools for building customizable communities.
 help us organize,
 and improve our communication —
 [felt.social](https://felt.social) continues this mission
-by developing a sustainable business to support
-the growth and development of spectacular communities.
+by developing a sustainable business supporting
+the growth and development of thriving and spectacular communities.
 Our business is owned by a worker co-op
 and one day we hope to become
 a [platform co-op](https://platform.coop)
