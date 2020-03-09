@@ -13,7 +13,7 @@ help us organize,
 and improve our communication —
 [felt.social](https://felt.social) continues this mission
 by developing a sustainable business to
-foster communities that are thiving, inspiring, and humane.
+foster communities that are thriving, inspiring, and humane.
 Our business is owned by a worker co-op
 and one day we hope to become
 a [platform co-op](https://platform.coop)
