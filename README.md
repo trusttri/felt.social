@@ -8,7 +8,12 @@
 is a community, service, and business
 powered by [`felt`](https://github.com/feltcoop/felt),
 a set of free and open source tools for building customizable communities.
-`felt` seeks to empower people, help us organize, and improve our communication.
+`felt` seeks to empower people,
+help us organize,
+and improve our communication —
+[felt.social](https://felt.social) continues this mission
+by developing a sustainable business to support
+the growth and development of spectacular communities.
 Our business is owned by a worker co-op
 and one day we hope to become
 a [platform co-op](https://platform.coop)
