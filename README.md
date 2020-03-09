@@ -5,8 +5,8 @@
 > customizable communities that feel good 💚
 
 [felt.social](https://felt.social)
-is a community and business.
-It's powered by [`felt`](https://github.com/feltcoop/felt),
+is a community, service, and business
+powered by [`felt`](https://github.com/feltcoop/felt),
 a set of free and open source tools for building customizable communities.
 [`felt`](https://github.com/feltcoop/felt)
 seeks to empower people, help us organize, and improve our communication.
