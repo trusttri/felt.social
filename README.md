@@ -21,10 +21,10 @@ to justly serve all stakeholders.
 We think accountability is pretty cool
 and so is a future friendly for all.
 
-- learn [about `felt`](https://felt.dev/about)
+- learn [about `felt`](https://felt.dev/about) and check out its
+  [source code](https://github.com/feltcoop/felt)
 - sign up for our mailing list at our
   **work in progress** [felt.social](https://felt.social)
-- [`felt` source code](https://github.com/feltcoop/felt)
 
 ## license
 
