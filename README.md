@@ -8,8 +8,8 @@
 seeks to empower people, help us organize, and improve our communication
 
 [felt.social](https://felt.social)
-is our community and business, and
-[`felt`](https://github.com/feltcoop/felt),
+is a community and business.
+It's powered by [`felt`](https://github.com/feltcoop/felt),
 a set of free and open source tools for building customizable communities.
 Our business is owned by a worker co-op
 and one day we hope to become
