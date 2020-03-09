@@ -5,7 +5,7 @@
 > customizable communities that feel good 💚
 
 [`felt`](https://github.com/feltcoop/felt)
-seeks to empower people, help us organize, and improve our communication.
+seeks to empower people, help us organize, and improve our communication
 
 [felt.social](https://felt.social)
 is our community and business, and
