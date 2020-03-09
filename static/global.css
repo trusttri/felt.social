@@ -20,7 +20,10 @@ body {
 
 h1,
 h2,
-h3,
+h3 {
+	font-weight: 100;
+}
+
 h4,
 h5,
 h6 {
@@ -47,4 +50,27 @@ img,
 video {
 	height: auto;
 	max-width: 100%;
+}
+
+a {
+	color: #495499;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	color: #549949;
+	text-decoration: underline;
+}
+a:active {
+	color: #495499;
+}
+
+.focusable:hover {
+	outline: 5px dotted #549949;
+}
+a:focus,
+button:focus,
+input:focus,
+.focusable:focus {
+	outline: 5px dotted #495499;
 }

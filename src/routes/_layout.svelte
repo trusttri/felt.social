@@ -8,17 +8,8 @@
 		max-width: 980px;
 		padding: 2em;
 		margin: 0 auto;
-	}
-
-	:global(a) {
-		color: #495499;
-		font-size: 32px;
-		text-decoration: none;
-	}
-	:global(a:hover) {
-		text-decoration: underline;
-	}
-	:global(a:visited) {
-		color: #495499;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
 	}
 </style>
