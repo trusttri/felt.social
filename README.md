@@ -8,7 +8,7 @@
 is a community, service, and business
 powered by [`felt`](https://github.com/feltcoop/felt),
 a set of free and open source tools for building customizable communities.
-`felt` seeks to empower people,
+`felt` seeks to empower us,
 help us organize,
 and improve our communication —
 [felt.social](https://felt.social) continues this mission
