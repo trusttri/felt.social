@@ -18,7 +18,7 @@ Our business is owned by a worker co-op
 and one day we hope to become
 a [platform co-op](https://platform.coop)
 to justly serve all stakeholders.
-We think accountability is pretty cool
+We feel like accountability is pretty cool
 and so is a future friendly for all.
 
 - learn [about `felt`](https://felt.dev/about) and check out its
