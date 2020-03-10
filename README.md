@@ -7,7 +7,8 @@
 [felt.social](https://felt.social)
 is a community, service, and business
 powered by [`felt`](https://github.com/feltcoop/felt),
-a set of free and open source tools for building customizable communities.
+a set of free and open source tools for building
+customizable self-governing communities.
 `felt` seeks to empower us,
 help us organize,
 and improve our communication —
