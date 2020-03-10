@@ -17,7 +17,7 @@ foster communities that are thriving, inspiring, and humane.
 Our business is owned by a worker co-op
 and one day we hope to become
 a [platform co-op](https://platform.coop)
-to justly serve all stakeholders.
+to best serve all stakeholders.
 We feel like accountability is pretty cool
 and so is a future friendly for all.
 
