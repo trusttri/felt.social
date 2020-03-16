@@ -1,10 +1,10 @@
-# [felt.social](https://felt.social)
+# [Felt.social](https://felt.social)
 
 [<img src="static/logo-heart.png" align="right" width="192" height="178">](https://felt.social)
 
 > customizable communities that feel good 💚
 
-[felt.social](https://felt.social)
+[Felt.social](https://felt.social)
 is a community, service, and business
 powered by [Felt](https://github.com/feltcoop/felt),
 a set of free and open source tools for building
@@ -12,7 +12,7 @@ customizable self-governing communities.
 Felt seeks to empower us,
 help us organize,
 and improve our communication —
-[felt.social](https://felt.social) continues this mission
+[Felt.social](https://felt.social) continues this mission
 by developing a sustainable business to
 foster communities that are thriving, authentic, and humane.
 Our business is owned by a worker co-op
@@ -25,7 +25,7 @@ and so is a future friendly for all.
 - learn [about Felt](https://felt.dev/about) and check out its
   [source code](https://github.com/feltcoop/felt)
 - sign up for our mailing list at our
-  **work in progress** [felt.social](https://felt.social)
+  **work in progress** [Felt.social](https://felt.social)
 
 ## license
 
