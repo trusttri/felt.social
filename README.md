@@ -6,10 +6,10 @@
 
 [felt.social](https://felt.social)
 is a community, service, and business
-powered by [`felt`](https://github.com/feltcoop/felt),
+powered by [Felt](https://github.com/feltcoop/felt),
 a set of free and open source tools for building
 customizable self-governing communities.
-`felt` seeks to empower us,
+Felt seeks to empower us,
 help us organize,
 and improve our communication —
 [felt.social](https://felt.social) continues this mission
