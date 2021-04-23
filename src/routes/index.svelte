@@ -1,10 +1,9 @@
 <script>
-	import MailingListCallout from '@app/MailingListCallout.svelte';
-	import Logo from '@app/Logo.svelte';
-	import SocialLinks from '@app/SocialLinks.svelte';
-	import Intro from '@app/Intro.svelte';
-	import WeAreLive from '@app/WeAreLive.svelte';
-	import Footer from '@app/Footer.svelte';
+	import Logo from '$lib/Logo.svelte';
+	import SocialLinks from '$lib/SocialLinks.svelte';
+	import Intro from '$lib/Intro.svelte';
+	import WeAreLive from '$lib/WeAreLive.svelte';
+	import Footer from '$lib/Footer.svelte';
 </script>
 
 <svelte:head>
@@ -23,9 +22,6 @@
 </section>
 <section>
 	<SocialLinks />
-</section>
-<section>
-	<MailingListCallout />
 </section>
 <section>
 	<Footer />

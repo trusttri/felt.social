@@ -1,0 +1,15 @@
+<h2><a href="https://felt.social">Felt.social</a></h2>
+is a<small>(work in progress)</small> community, service, and business powered by
+<a href="https://github.com/feltcoop/felt">Felt</a>, a set of free and open source tools for
+building customizable self-governing communities. Felt seeks to empower us, help us organize, and
+improve our communication — Felt.social continues this mission by developing a sustainable business
+to foster communities that are effective, authentic, and humane. Our business is owned by a worker
+co-op and one day we hope to become a <a href="https://platform.coop">platform co-op</a>
+to best serve all stakeholders. We feel like accountability is pretty cool. If you think so too, we hope
+you'll join us!
+
+<style>
+	h2 {
+		display: inline;
+	}
+</style>

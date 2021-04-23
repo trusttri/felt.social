@@ -1,7 +1,12 @@
 .DS_Store
-/node_modules/
-/src/node_modules/@sapper/
-yarn-error.log
-/__sapper__/
-emails.txt
+node_modules
+/.svelte
+/build
+/functions
+
+/.gro
+/dist
+*.ignore
 *.ignore.*
+ignore/
+*.pem

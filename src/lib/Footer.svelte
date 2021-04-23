@@ -6,17 +6,12 @@
 <div class="wrapper">
 	<h2>
 		source code at
-		<a
-			class="felt-social-repo"
-			href="https://github.com/feltcoop/felt.social"
-			rel="noopener">
-			<span>github.com/feltcoop/felt.social</span>
+		<a class="felt-social-repo" href="https://github.com/feltcoop" rel="noopener">
+			<span>github.com/feltcoop</span>
 		</a>
-	</h2>
-	<h2>
-		<a class="felt-repo" href="https://github.com/feltcoop/felt" rel="noopener">
-			<img alt="felt logo" src="/logo-192.png" />
-			<div>github.com/feltcoop/felt</div>
+		and
+		<a class="felt-social-repo" href="https://github.com/feltcoop/felt.social" rel="noopener">
+			<span>github.com/feltcoop/felt.social</span>
 		</a>
 	</h2>
 </div>

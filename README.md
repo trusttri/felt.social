@@ -1,8 +1,8 @@
 # [Felt.social](https://felt.social)
 
-[<img src="static/logo-heart.png" align="right" width="192" height="178">](https://felt.social)
+[<img src="static/felt.png" align="right" width="192" height="178">](https://felt.social)
 
-> customizable communities that feel good 💚
+> customizable communities that feel good 💚 work in progress
 
 [Felt.social](https://felt.social)
 is a community, service, and business
@@ -26,6 +26,30 @@ If you think so too, we hope you'll join us!
   [source code](https://github.com/feltcoop/felt)
 - sign up for our mailing list at our
   **work in progress** [Felt.social](https://felt.social)
+
+### develop
+
+```bash
+npm i
+npm run dev
+```
+
+### build
+
+```bash
+npm run build
+npm start
+```
+
+# :turtle:<sub>:turtle:</sub><sub><sub>:turtle:</sub></sub>
+
+[Svelte](https://github.com/sveltejs/svelte) ∙
+[SvelteKit](https://github.com/sveltejs/kit) ∙
+[Vite](https://github.com/vitejs/vite) ∙
+[Rollup](https://github.com/rollup/rollup) ∙
+[TypeScript](https://github.com/microsoft/TypeScript) ∙
+[Prettier](https://github.com/prettier/prettier) ∙
+& [more](package.json)
 
 ## License
 
