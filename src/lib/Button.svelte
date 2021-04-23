@@ -1,8 +1,8 @@
-<script>
+<script lang="ts">
 	// TODO import from @feltcoop/felt
 
 	export let classes = '';
-	export let el = undefined;
+	export let el: HTMLButtonElement | undefined = undefined;
 	export let disabled = false;
 </script>
 

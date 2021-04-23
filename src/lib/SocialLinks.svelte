@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import TwitterLogo from './TwitterLogo.svelte';
 	import GithubLogo from './GithubLogo.svelte';
 
@@ -11,14 +11,16 @@
 			class="focusable"
 			style="height: {iconHeight}px;"
 			href="https://twitter.com/feltcoop"
-			rel="noopener">
+			rel="noopener"
+		>
 			<TwitterLogo size={iconHeight} />
 		</a>
 		<a
 			class="focusable"
 			style="height: {iconHeight}px;"
 			href="https://github.com/feltcoop"
-			rel="noopener">
+			rel="noopener"
+		>
 			<GithubLogo size={iconHeight} />
 		</a>
 	</div>

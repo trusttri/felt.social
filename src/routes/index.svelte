@@ -1,14 +1,10 @@
-<script>
+<script lang="ts">
 	import Logo from '$lib/Logo.svelte';
 	import SocialLinks from '$lib/SocialLinks.svelte';
 	import Intro from '$lib/Intro.svelte';
 	import WeAreLive from '$lib/WeAreLive.svelte';
 	import Footer from '$lib/Footer.svelte';
 </script>
-
-<svelte:head>
-	<title>felt</title>
-</svelte:head>
 
 <section>
 	<Logo />
