@@ -24,7 +24,7 @@
     "format": "prettier --write ."
   },
   "devDependencies": {
-    "@feltcoop/gro": "^0.21.1",
+    "@feltcoop/gro": "^0.21.3",
     "@sveltejs/adapter-static": "^1.0.0-next.4",
     "@sveltejs/kit": "^1.0.0-next.84",
     "prettier": "~2.2.1",
