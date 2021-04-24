@@ -1,5 +1,5 @@
 <div class="wrapper">
-	<a href="https://felt.dev">
+	<a href="https://www.felt.dev">
 		<div>work in progress at</div>
 		<div class="link">→ felt.dev ←</div>
 	</a>

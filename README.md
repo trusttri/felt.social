@@ -22,7 +22,7 @@ to best serve all stakeholders.
 We feel like accountability is pretty cool.
 If you think so too, we hope you'll join us!
 
-- learn [about Felt](https://felt.dev/about) and check out its
+- learn [about Felt](https://www.felt.dev/about) and check out its
   [source code](https://github.com/feltcoop/felt)
 - sign up for our mailing list at our
   **work in progress** [Felt.social](https://felt.social)
