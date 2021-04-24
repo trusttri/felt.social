@@ -21,11 +21,9 @@
     "node": ">= 14.16.0"
   },
   "scripts": {
-    "dev": "svelte-kit dev",
-    "build": "svelte-kit build",
-    "start": "svelte-kit start",
-    "lint": "prettier --check .",
-    "format": "prettier --write ."
+    "dev": "gro dev",
+    "build": "gro build",
+    "start": "gro start"
   },
   "devDependencies": {
     "@feltcoop/gro": "^0.21.3",
