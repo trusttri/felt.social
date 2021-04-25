@@ -1,6 +1,6 @@
 # [Felt.social](https://felt.social)
 
-[<img src="static/felt.png" align="right" width="192" height="178">](https://felt.social)
+[<img src="src/static/felt.png" align="right" width="192" height="178">](https://felt.social)
 
 > customizable communities that feel good 💚 work in progress
 
