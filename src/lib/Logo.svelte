@@ -1,5 +1,5 @@
 <div class="wrapper">
-	<img alt="felt heart logo" src="/felt.png" />
+	<img src="/felt.png" alt="fuzzy felt heart" />
 </div>
 
 <style>

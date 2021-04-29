@@ -1,4 +1,5 @@
 <script lang="ts">
+	import Header from '$lib/Header.svelte';
 	import SocialLinks from '$lib/SocialLinks.svelte';
 </script>
 
@@ -6,13 +7,12 @@
 	<title>about felt</title>
 </svelte:head>
 
-<div>
-	<header>
-		<h1>about</h1>
-		<a href="/">
-			<img style="width: 192px; height: 178px;" src="/felt.png" alt="fuzzy felt heart" />
-		</a>
-	</header>
+<section>
+	<Header>
+		<h2>about Felt</h2>
+	</Header>
+</section>
+<section>
 	<p>
 		Felt is a set of tools for building customizable self-governing communities. It seeks to empower
 		us, help us organize, and improve our communication. It's a free and open source alternative to
@@ -107,19 +107,9 @@
 	<footer>
 		<SocialLinks />
 	</footer>
-</div>
+</section>
 
 <style>
-	header {
-		display: flex;
-		align-items: center;
-		flex-wrap: wrap;
-		justify-content: center;
-	}
-	h1 {
-		padding: 13px 60px 0;
-		text-align: center;
-	}
 	footer {
 		display: flex;
 		justify-content: center;

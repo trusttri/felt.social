@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Logo from '$lib/Logo.svelte';
+	import Header from '$lib/Header.svelte';
 	import SocialLinks from '$lib/SocialLinks.svelte';
 	import Intro from '$lib/Intro.svelte';
 	import LearnAboutFelt from '$lib/LearnAboutFelt.svelte';
@@ -8,8 +8,9 @@
 </script>
 
 <section>
-	<Logo />
-	<h2>customizable communities that feel good</h2>
+	<Header>
+		<h2>customizable communities that feel good</h2>
+	</Header>
 </section>
 <section class="intro">
 	<Intro />
