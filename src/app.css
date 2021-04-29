@@ -77,3 +77,9 @@ input:focus,
 .focusable:focus {
 	outline: 5px dotted #495499;
 }
+
+hr {
+	margin: 10px 0;
+	border-top: 1px solid hsla(232, 35%, 44%, 61%);
+	border-bottom: 1px solid hsla(232, 35%, 44%, 24%);
+}
