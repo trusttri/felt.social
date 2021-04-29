@@ -1,3 +1,10 @@
+:root {
+	--color_0_hue: 232;
+	--color_1_hue: 112;
+	--color_0: hsl(var(--color_0_hue), 35%, 44%);
+	--color_1: hsl(var(--color_1_hue), 35%, 44%);
+}
+
 html {
 	box-sizing: border-box;
 }
@@ -41,9 +48,6 @@ h1 {
 input,
 button {
 	margin: 0;
-	font-family: inherit;
-	font-size: 100%;
-	line-height: 1.2;
 }
 
 img,
@@ -53,33 +57,33 @@ video {
 }
 
 a {
-	color: #495499;
+	color: var(--color_0);
 	font-weight: bold;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #549949;
+	color: var(--color_1);
 	text-decoration: underline;
 }
 
 a:active {
-	color: #495499;
+	color: var(--color_0);
 }
 
 .focusable:hover {
-	outline: 5px dotted #549949;
+	outline: 5px dotted var(--color_1);
 }
 
 a:focus,
 button:focus,
 input:focus,
 .focusable:focus {
-	outline: 5px dotted #495499;
+	outline: 5px dotted var(--color_0);
 }
 
 hr {
 	margin: 20px 0;
-	border-top: 1px solid hsla(232, 35%, 44%, 61%);
-	border-bottom: 1px solid hsla(232, 35%, 44%, 24%);
+	border-top: 1px solid hsla(var(--color_0_hue), 35%, 44%, 61%);
+	border-bottom: 1px solid hsla(var(--color_0_hue), 35%, 44%, 24%);
 }

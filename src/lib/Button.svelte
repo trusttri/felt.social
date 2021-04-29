@@ -15,8 +15,8 @@
 		border-radius: 3px;
 		border-width: 2px;
 		padding: 10px 16px;
-		color: #495499;
-		border-color: rgb(73, 84, 153);
+		color: var(--color_0);
+		border-color: var(--color_0);
 		background-color: rgba(73, 84, 153, 0.1);
 		font-size: 24px;
 		font-weight: bold;
@@ -41,7 +41,7 @@
 	}
 
 	button:focus {
-		outline: 5px dotted #495499;
+		outline: 5px dotted var(--color_0);
 	}
 
 	button[disabled] {

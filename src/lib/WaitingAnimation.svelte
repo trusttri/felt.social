@@ -7,7 +7,7 @@
 	span {
 		opacity: 0;
 		animation: dot 1.5s infinite;
-		color: #495499;
+		color: var(--color_0);
 	}
 
 	.one {
