@@ -2,6 +2,7 @@
 	import Logo from '$lib/Logo.svelte';
 	import SocialLinks from '$lib/SocialLinks.svelte';
 	import Intro from '$lib/Intro.svelte';
+	import LearnAboutFelt from '$lib/LearnAboutFelt.svelte';
 	import WeAreLive from '$lib/WeAreLive.svelte';
 	import Footer from '$lib/Footer.svelte';
 </script>
@@ -12,6 +13,9 @@
 </section>
 <section class="intro">
 	<Intro />
+</section>
+<section>
+	<LearnAboutFelt />
 </section>
 <section>
 	<WeAreLive />
