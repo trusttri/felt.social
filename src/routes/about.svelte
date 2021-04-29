@@ -85,11 +85,8 @@
 		</li>
 	</ul>
 	<p>
-		But Felt is not ready yet.
-		<strong>
-			This is just a mockup for demonstration and design purposes. Do not expect security when you
-			run this software. Assume everything is broken or fake.
-		</strong>
+		But Felt is not ready yet. We have a long road to go, and we're pointed towards community
+		building and democratic governance.
 	</p>
 	<p>
 		Felt is
