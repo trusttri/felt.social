@@ -10,7 +10,7 @@
 	<header>
 		<h1>about</h1>
 		<a href="/">
-			<img style="width: 192px; height: 178px;" src="felt.png" alt="fuzzy felt heart" />
+			<img style="width: 192px; height: 178px;" src="/felt.png" alt="fuzzy felt heart" />
 		</a>
 	</header>
 	<p>
