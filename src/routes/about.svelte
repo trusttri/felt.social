@@ -20,8 +20,7 @@
 	</p>
 	<p>
 		Our team is small and our goals are over the top. Through the might of software we aim to help
-		people solve priority problems with
-		<a href="felt/memes">joy</a>. Felt is what the web should be.
+		people solve priority problems with joy. Felt is what the web should be.
 	</p>
 	Felt features (one day):
 	<ul>
@@ -94,12 +93,12 @@
 	</p>
 	<p>
 		Felt is
-		<a href="https://en.wikipedia.org/wiki/Free_and_open-source_software">
+		<a href="https://wikipedia.org/wiki/Free_and_open-source_software">
 			free and open source software
 		</a>
 		released under the permissive
 		<a href="https://github.com/feltcoop/felt/blob/master/license"> MIT license </a>
-		(<a href="https://en.wikipedia.org/wiki/MIT_License">see Wikipedia</a>), and it's designed to be
+		(<a href="https://wikipedia.org/wiki/MIT_License">see Wikipedia</a>), and it's designed to be
 		easily self-hosted, so you can run a private instance for your communities and maintain full
 		control.
 	</p>
