@@ -97,7 +97,7 @@
 			free and open source software
 		</a>
 		released under the permissive
-		<a href="https://github.com/feltcoop/felt/blob/master/license"> MIT license </a>
+		<a href="https://github.com/feltcoop/felt/blob/main/LICENSE"> MIT license </a>
 		(<a href="https://wikipedia.org/wiki/MIT_License">see Wikipedia</a>), and it's designed to be
 		easily self-hosted, so you can run a private instance for your communities and maintain full
 		control.
