@@ -1,8 +1,12 @@
 :root {
 	--color_0_hue: 232;
 	--color_1_hue: 112;
-	--color_0: hsl(var(--color_0_hue), 35%, 44%);
-	--color_1: hsl(var(--color_1_hue), 35%, 44%);
+	--color_0_saturation: 35%;
+	--color_1_saturation: 35%;
+	--color_0_lightness: 44%;
+	--color_1_lightness: 44%;
+	--color_0: hsl(var(--color_0_hue), var(--color_0_saturation), var(--color_0_lightness));
+	--color_1: hsl(var(--color_1_hue), var(--color_1_saturation), var(--color_1_lightness));
 }
 
 html {
@@ -84,6 +88,19 @@ input:focus,
 
 hr {
 	margin: 20px 0;
-	border-top: 1px solid hsla(var(--color_0_hue), 35%, 44%, 61%);
-	border-bottom: 1px solid hsla(var(--color_0_hue), 35%, 44%, 24%);
+	border-top: 1px solid
+		hsla(var(--color_0_hue), var(--color_0_saturation), var(--color_0_lightness), 61%);
+	border-bottom: 1px solid
+		hsla(var(--color_0_hue), var(--color_0_saturation), var(--color_0_lightness), 24%);
+}
+
+code {
+	padding: 0 3px;
+	border-radius: 2px;
+	background-color: hsla(
+		var(--color_0_hue),
+		var(--color_0_saturation),
+		var(--color_0_lightness),
+		14%
+	);
 }

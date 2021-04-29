@@ -1,5 +1,7 @@
 <h2><a href="https://felt.social">Felt.social</a></h2>
-is a<small> (work in progress)</small> community, service, and business powered by
+is a
+<small><code>work in progress</code></small>
+community, service, and business powered by
 <a href="https://github.com/feltcoop/felt">Felt</a>, a set of free and open source tools for
 building customizable self-governing communities. Felt seeks to empower us, help us organize, and
 improve our communication — Felt.social continues this mission by developing a sustainable business
