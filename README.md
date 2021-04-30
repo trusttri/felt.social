@@ -16,7 +16,7 @@ and improve our communication —
 by developing a sustainable business to
 foster communities that are effective, authentic, and humane.
 Our business is owned by a worker co-op
-and one day we hope to become
+and we're working to become
 a [platform co-op](https://platform.coop)
 to best serve all stakeholders.
 We feel like accountability is pretty cool.

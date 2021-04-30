@@ -6,7 +6,7 @@ community, service, and business powered by
 building customizable self-governing communities. Felt seeks to empower us, help us organize, and
 improve our communication — Felt.social continues this mission by developing a sustainable business
 to foster communities that are effective, authentic, and humane. Our business is owned by a worker
-co-op and one day we hope to become a <a href="https://platform.coop">platform co-op</a>
+co-op and we're working to become a <a href="https://platform.coop">platform co-op</a>
 to best serve all stakeholders. We feel like accountability is pretty cool. If you think so too, we hope
 you'll join us!
 
