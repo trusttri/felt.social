@@ -1,6 +1,6 @@
 <script lang="ts">
-	import TwitterLogo from './TwitterLogo.svelte';
-	import GithubLogo from './GithubLogo.svelte';
+	import TwitterLogo from '$lib/TwitterLogo.svelte';
+	import GithubLogo from '$lib/GithubLogo.svelte';
 
 	export let iconHeight = 64;
 </script>

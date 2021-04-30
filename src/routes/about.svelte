@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Header from '$lib/Header.svelte';
-	import SocialLinks from '$lib/SocialLinks.svelte';
+	import Footer from '$lib/Footer.svelte';
 </script>
 
 <svelte:head>
@@ -102,16 +102,5 @@
 		control.
 	</p>
 	<p>Your feedback is 💚💚</p>
-	<hr />
-	<footer>
-		<SocialLinks />
-	</footer>
+	<Footer />
 </section>
-
-<style>
-	footer {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
-</style>
