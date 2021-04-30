@@ -19,7 +19,7 @@
 		many websites and apps tucked into a warm fuzzy package.
 	</p>
 	<p>
-		Our team is small and our goals are over the top. Through the might of software we want to help
+		Our team is small and our goals are over the top. With the might of software we want to help
 		people solve priority problems with joy. Felt is what the web should be.
 	</p>
 	Felt features (one day):
