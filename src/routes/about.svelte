@@ -66,7 +66,9 @@
 		to its users, workers, and society. To learn more about why we chose this business structure, see
 		our (forthcoming) blog post "Why Felt is a worker co-op". In the future, we want to explore the
 		<a href="https://platform.coop/">platform cooperative model</a>
-		to share control and ownership with our users. (you, we hope!)
+		to share control and ownership with our users. (you, we hope!) Our
+		<a href="https://github.com/feltcoop/felt/blob/main/GOVERNANCE.md">GOVERNANCE.md</a> reflects this
+		goal while being up front about our current dictator status as workers.
 	</p>
 	Some links:
 	<ul>
