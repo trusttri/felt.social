@@ -88,8 +88,8 @@
 		</li>
 	</ul>
 	<p>
-		But Felt is not ready yet. We have a long road ahead. It seems to be headed towards towards
-		community building and democratic governance.
+		But Felt is not ready yet. We have a long road ahead. It seems to be leading towards community
+		building and democratic governance.
 	</p>
 	<p>
 		Felt is
