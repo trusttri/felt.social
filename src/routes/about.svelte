@@ -1,6 +1,7 @@
 <script lang="ts">
 	import Header from '$lib/Header.svelte';
 	import Footer from '$lib/Footer.svelte';
+	import Logo from '$lib/Logo.svelte';
 </script>
 
 <svelte:head>
@@ -102,5 +103,9 @@
 		control.
 	</p>
 	<p>Your feedback is 💚💚</p>
-	<Footer />
+	<Footer>
+		<a href="/">
+			<Logo />
+		</a>
+	</Footer>
 </section>
