@@ -4,14 +4,10 @@
 </script>
 
 <footer>
-	<div class="inner">
-		<hr />
-		<SocialLinks />
-		<hr />
-		<a href="/">
-			<Logo />
-		</a>
-	</div>
+	<SocialLinks />
+	<a href="/">
+		<Logo />
+	</a>
 </footer>
 
 <style>
@@ -19,16 +15,9 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		flex-direction: column;
 	}
 	a {
 		margin-top: 20px;
-	}
-	.inner {
-		display: flex;
-		justify-content: center;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		flex-direction: column;
 	}
 </style>
