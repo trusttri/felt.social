@@ -1,3 +1,7 @@
+<script lang="ts">
+	import Logo from './Logo.svelte';
+</script>
+
 <div class="wrapper">
 	<h2>
 		source code at
@@ -9,6 +13,9 @@
 			<span>github.com/feltcoop/felt.social</span>
 		</a>
 	</h2>
+	<a href="/">
+		<Logo />
+	</a>
 </div>
 
 <style>
