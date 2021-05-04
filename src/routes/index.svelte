@@ -21,7 +21,7 @@
 	<WeAreLive />
 </section>
 <section>
-	<Footer />
+	<Footer>💚</Footer>
 </section>
 
 <style>
