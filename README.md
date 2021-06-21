@@ -41,7 +41,7 @@ npm run build
 npm start
 ```
 
-# :turtle:<sub>:turtle:</sub><sub><sub>:turtle:</sub></sub>
+## credits 🐢<sub>🐢</sub><sub><sub>🐢</sub></sub>
 
 [Svelte](https://github.com/sveltejs/svelte) ∙
 [SvelteKit](https://github.com/sveltejs/kit) ∙
@@ -51,6 +51,6 @@ npm start
 [Prettier](https://github.com/prettier/prettier)
 & [more](package.json)
 
-## License
+## license [🐦](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 
 [MIT](LICENSE)
